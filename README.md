@@ -25,3 +25,6 @@ What doesn't work:
 What hasn't been tested:
 
     TB3
+
+
+If you're going to use this don't forget to put your serials in the config.plist and generate your own DSDT.aml file for the ACPI.
